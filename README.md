@@ -1,4 +1,4 @@
-# weed-detection
+# Weed-Detection: Detection of unwanted plants using YOLOv5
 # Actual weed training data:
 ![weed1](https://github.com/lehen20/weed-detection/assets/98393493/92fc1db4-7586-49fc-b903-ebbe38ca3838)
 ![weed2](https://github.com/lehen20/weed-detection/assets/98393493/7a6e7e6a-7aaa-42ca-be1c-cdd0fbab6c71)
